@@ -1,4 +1,4 @@
-💻Código de uma aplicação de um semáforo feito em Java,na disciplina de POO(Programação Orientada a Objetos)
+💻Código de uma aplicação de um semáforo 🚦 feito em Java,na disciplina de POO(Programação Orientada a Objetos)
 
 ![Captura_de_tela_2024-07-12_184213-removebg-preview](https://github.com/user-attachments/assets/de705cf6-13ee-49ee-b206-43599c7f8a42)
 
